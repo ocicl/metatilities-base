@@ -1,0 +1,9 @@
+* metatilities-base
+
+metabang's core utilities... - Something to stand on
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/gwkkwg/metatilities-base.git |
+| commit  | ef04337                                             |
+| systems | metatilities-base                                   |
+|---------+-----------------------------------------------------|
